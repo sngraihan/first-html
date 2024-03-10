@@ -1,0 +1,29 @@
+body{
+  
+}
+
+h1, p{
+  text-align: center;
+}
+
+form{
+  background-color: #1b1b32;
+  color: white;
+  width: 60vw;
+  margin: 0 auto;
+
+}
+
+fieldset{
+  border: 0;
+  margin: 10 auto;
+}
+
+label, input, textarea{
+  width: 100%;
+
+}
+
+.inline{
+  display: inline;
+}
